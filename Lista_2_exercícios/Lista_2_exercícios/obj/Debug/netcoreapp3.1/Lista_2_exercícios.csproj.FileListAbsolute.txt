@@ -1,0 +1,13 @@
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\bin\Debug\netcoreapp3.1\Lista_2_exercícios.exe
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\bin\Debug\netcoreapp3.1\Lista_2_exercícios.deps.json
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\bin\Debug\netcoreapp3.1\Lista_2_exercícios.runtimeconfig.json
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\bin\Debug\netcoreapp3.1\Lista_2_exercícios.runtimeconfig.dev.json
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\bin\Debug\netcoreapp3.1\Lista_2_exercícios.dll
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\bin\Debug\netcoreapp3.1\Lista_2_exercícios.pdb
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\obj\Debug\netcoreapp3.1\Lista_2_exercícios.csprojAssemblyReference.cache
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\obj\Debug\netcoreapp3.1\Lista_2_exercícios.AssemblyInfoInputs.cache
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\obj\Debug\netcoreapp3.1\Lista_2_exercícios.AssemblyInfo.cs
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\obj\Debug\netcoreapp3.1\Lista_2_exercícios.csproj.CoreCompileInputs.cache
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\obj\Debug\netcoreapp3.1\Lista_2_exercícios.dll
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\obj\Debug\netcoreapp3.1\Lista_2_exercícios.pdb
+C:\Users\liped\OneDrive\Área de Trabalho\Nova pasta (3)\Lista02Exercicio\Lista_2_exercícios\Lista_2_exercícios\obj\Debug\netcoreapp3.1\Lista_2_exercícios.genruntimeconfig.cache
